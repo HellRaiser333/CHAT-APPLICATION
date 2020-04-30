@@ -1,0 +1,10 @@
+LINK FOR THE APP(PLEASE COPY PASTE THIS URL TO SEE THE WOTKING OF THE APP)
+https://app.botsociety.io/s/5eaa6f239bcccc79d6aa67a1?p=5b392c585fd5417a675d9a3a63fcaec7853f9c73
+CODE SNIPPET
+<script type='text/javascript' src='https://app.botsociety.io/embc/5eaa6efb9bcccc4cfbaa679e'>
+</script>
+<a class='botsocref' style='position:fixed;left:-30000px;' href='https://botsociety.io'>botsociety</a>
+<a class='botsoc' rel='nofollow' href=https://app.botsociety.io/emb/5eaa6f239bcccc79d6aa67a1?p=5b392c585fd5417a675d9a3a63fcaec7853f9c73' target='medium'>
+</a>
+DESCRIPTION
+A Simple chat application made to help you find nearby gyms around.Please consider this prototype version.
